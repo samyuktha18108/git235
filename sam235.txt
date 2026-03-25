@@ -1,0 +1,18 @@
+
+
+
+
+$cat . sam235.txt[D[D[D[D[D[D[D[D[D>[C[C[C[C[C[C[C[C[C[C[C
+git add sam235.txt
+git commit-m " adding sam235.txt"
+$ git remote add origin https://github.com/samyuktha18108/git235.git
+$ git push -u origin master
+
+$cat > sam235.txt
+git add sam235.txt
+git commit-m " adding sam235.txt"
+$ git remote add origin https://github.com/samyuktha18108/git235.git
+git push -u origin master
+git branch
+
+
